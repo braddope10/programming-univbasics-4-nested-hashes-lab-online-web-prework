@@ -127,7 +127,7 @@ def changing_alan
   
   programmer_hash2[:alans_new_info] = "GUI"
   
-  
+  programmer_hash2
 end
 
 def adding_to_dennis
